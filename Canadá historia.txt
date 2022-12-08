@@ -7,6 +7,7 @@ Datos:
 - Los reyes borbones en Francia fueron monarcas absolutistas. Bajo su reinado se logró la unidad territorial de Francia bajo una sola autoridad que concentraba 
 todo el poder.
 - Política aislacionísta se refiere a la no intervención política o militar de un país en los asuntos de otro territorio soberano.
+- Los 3 territorios tienen una población muy reducida, por eso no tienen su estatus de provincia.
 
 Historia:
 Se estima que el territorio de Canadá sería uno de los primeros poblados de América, siendo el sitio arqueologico más antiguo, las Bluefish Caves en el Yucón, 
@@ -86,10 +87,13 @@ general la historia de Canadá es prosperidad y trabajo duro también tiene una 
 recolocados en familias Canadienses para convertirlos a su religión y cultura. En 1982 se adopta la Costitución de Canadá vigente durante el gobierno de 
 Pierre Trudeau, quien debió renunciar dos años después ante una ligera crisis económica.
 
-Sistema de Gobierno de Canadá:
-Hay 2 esquemas paralelos en el sistema de gobierno canadiense, está la corona y el sistema federal. En la corona la cabeza es el Rey Carlos III, luego 
-está el gobernador general de Canadá que es Justin Trideau, cada provincia tiene un gobernador general que representa a la corona en esa provincia
-
+• Sistema de Gobierno de Canadá:
+Hay 2 esquemas paralelos en el sistema de gobierno canadiense: 
+- La corona. 
+En la corona la cabeza es el Rey Carlos III, luego está el gobernador general de Canadá, cada provincia tiene un gobernador general que representa a la corona en 
+esa provincia. 
+- Gobierno Federal.
+Tiene un primer ministro que es elegido por el pueblo, cada provincia tiene un ministro y los territorios tienen un comisario. 
 
 
 
