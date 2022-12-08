@@ -6,6 +6,7 @@ Datos:
 - Pidgin es una lengua simplificada usada entre comunidades que no tienen una lengua común y que usualmente tiene préstamos de ambas lenguas.
 - Los reyes borbones en Francia fueron monarcas absolutistas. Bajo su reinado se logró la unidad territorial de Francia bajo una sola autoridad que concentraba 
 todo el poder.
+- Política aislacionísta se refiere a la no intervención política o militar de un país en los asuntos de otro territorio soberano.
 
 Historia:
 Se estima que el territorio de Canadá sería uno de los primeros poblados de América, siendo el sitio arqueologico más antiguo, las Bluefish Caves en el Yucón, 
@@ -58,16 +59,29 @@ ferrocarril creado por la Canadian Pacific Railway, pero por otro lado fué acus
 adquiridos para apropiarse de sus tierras, esta expansión tendría ciertas respuestas como la Rebelión del Río Rojo (1870), en la que los Métis, mestizos descendientes 
 de indígenas y franceses liderados por Luis Riel se amotinan contra el gobierno, aunque no logran detener la expansión, sus derechos sobre las tierras son respetados,
 sin embargo, Luis Riel nuevamente encabezaría una fallida rebelión en 1865 llamada la Rebelión del Noroeste, tras la que sería ejecutado convirtiendose en un martir 
-para los pueblos indígenas. En 1896 surge la fiebre del oro en la que se encuentra este metal precioso en el Río Klondike, por lo que se crea la provincia del Yucón desprendida de los territorios 
-del noroeste, esto incentivó la inmigración estadounidense hacia la costa oeste de Canadá. 
+para los pueblos indígenas. En 1896 surge la fiebre del oro en la que se encuentra este metal precioso en el Río Klondike, por lo que se crea la provincia del Yucón 
+desprendida de los territorios del noroeste, esto incentivó la inmigración estadounidense hacia la costa oeste de Canadá. 
 
 Los principios del siglo 20 se vieron marcados por el aumento masivo de la migración europea incentivado por el crecimiento económico canadiense gracias a la 
 explotación de nuevos recursos como el trigo; con una población ya de unos casi 8 millones de personas, Canadá demuestra su ahún fidelidad a la corona británica, 
 al enviar 600,000 mil soldados para combatir del lado de los aliados en la Primera Guerra Mundial, teniendo una participación especial en la Tercera Batalla de Ypres y 
 en la Ofensiva de los 100 días en donde sellan la rendición alemana, este episodio costaría la vida de unos 57,000 mil soldados canadienses. Esta guerra intensificó el 
-sentimiento de identidad canadiense, que se vió beneficiado al obtener un sitio tanto en la Conferencia de Paz de París como en la Sociedad de las Naciones.
+sentimiento de identidad canadiense, que se vió beneficiado al obtener un sitio tanto en la Conferencia de Paz de París como en la Sociedad de las Naciones. Esto sería 
+un preludio para la firma del Estatuto de Westminser (1931), en el que se reconoce la igualdad legislativa entre los domínios autogobernados del imperio británico y 
+el Reino Unido, esto se considera por muchos la independencia de Canadá, aunque... ¿Los Canadienses siguen siendo subditos de la Reina verdad?
 
+La decada de los 30 se vió golpeada por el crac del 29, que afecto mucho la economía canadiense ya que está estrechamente relacionada con la economía 
+estadounidense, la producción industrial bajo a la mitad y se llegó a un 20% de desempleo, a pesar de esto y la política aislacionista que se había tomado, Canadá sigue 
+los pasos del Reino Unido al declararle la guerra a las potencias del Eje al iniciarse la Segunda Guerra Mundial, en esta guerra Canadá destacó por su participación en 
+el Desembarco de Normandía asaltando la playa de Juno durante el Día D, en el frente del pacifico Canadá también cooperaría con EE.UU. para expulsar a los Japoneses 
+de algunas islas del pacífico. La economía canadiense se recuperaría luego de la guerra gracias al aumento de la producción industrial, quedando el territorio 
+canadiense ileso.
 
+En 1949, el dominio de Terranova que había renunciado voluntariamente al autogobierno en 1934, se unió a Canadá para transformarse en la decima provincia del país, 
+con esto se consolida el actual territorio canadiense. Durante la Guerra Fría, Canadá sería parte del bloque capitalista con lo que se uniría a la OTAN y apoyaría a EE.UU. 
+en ciertos conflictos como en la Guerra de Corea, la Guerra de Sinaí y la Guerra de Vietnam.
 
-
-
+En la decada de los 60 ocurrieron algunos cambios como la adopción de la bandera actual y el reconocimiento del inglés y el francés como lenguas oficiales; si bien en 
+general la historia de Canadá es prosperidad y trabajo duro también tiene una cara oscura de la moneda que incluye el secuestro de miles de niños aborígenes 
+recolocados en familias Canadienses para convertirlos a su religión y cultura. En 1982 se adopta la Costitución de Canadá vigente durante el gobierno de 
+Pierre Trudeau, quien debió renunciar dos años después ante una ligera crisis económica.
